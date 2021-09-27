@@ -219,7 +219,7 @@ ul {
   margin-right: 30px;
 }
 .card {
-  flex-basis: calc(100% / 4 - 30px);
+  flex-basis: calc(100% / 3 - 30px);
   margin-bottom: 30px;
   background-color: var(--logo-text-footer-color);
   border-radius: 0px 0px 4px 4px;
