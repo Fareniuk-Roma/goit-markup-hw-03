@@ -67,13 +67,11 @@ ul {
 .navigation .link {
   list-style-type: none;
   color: var(--title-text-color);
-  font-family: Roboto;
   font-weight: 500;
   font-size: 14px;
   line-height: 1.14;
   letter-spacing: 0.02em;
   text-decoration: none;
-  list-style-type: none;
 }
 .navigation .link.current {
   color: var(--accent-color);
